@@ -6,8 +6,8 @@ De Beste tingene kommer i små pakker!
    ##
   
   <div align="center"> 
-  <img heigth="195em" src="https://github-readme-stats.vercel.app/api/?username=anuraghazra&show_icons=true&theme=tokyonight"/>
-  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondpreuss&theme=tokyonight"/>                           
+  <img heigth="195em" src="https://github-readme-stats.vercel.app/api/?username=ronyrd&show_icons=true&theme=tokyonight"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyrd&theme=tokyonight"/>                           
   <!--img height="290em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronyrd&layout=compact&langs_count=7&theme=radical"/--!>
   </div>
   
